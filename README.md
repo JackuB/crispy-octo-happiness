@@ -1,4 +1,4 @@
 # crispy-octo-happiness
 
 Updated readme.
-One more for
+One more for the
