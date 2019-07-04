@@ -19,7 +19,7 @@
   "homepage": "https://github.com/JackuB/crispy-octo-happiness#readme",
   "dependencies": {
     "lodash": "^3.10.1",
-    "mixin-deep": "^2.0.0",
+    "mixin-deep": "^2.0.1",
     "webpack": "^1.15.0"
   }
 }
