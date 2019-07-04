@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JackuB/crispy-octo-happiness#readme",
   "dependencies": {
+    "lodash": "^3.10.1",
     "webpack": "^4.34.0"
   }
 }
