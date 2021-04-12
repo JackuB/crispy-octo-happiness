@@ -6,11 +6,11 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - uses: snyk/actions/setup@master
-      - name: Snyk monitor
-        continue-on-error: true
-        run: snyk test lodash@4.15.0 --sarif-file-output=snyk.sarif
-        env:
-          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+      # - name: Snyk monitor
+      #   continue-on-error: true
+      #   run: snyk test lodash@4.15.0 --sarif-file-output=snyk.sarif
+      #   env:
+      #     SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
       - name: Upload result to GitHub Code Scanning
         uses: github/codeql-action/upload-sarif@v1
         with:
