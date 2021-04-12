@@ -197,18 +197,7 @@
           "message": {
             "text": "This file introduces a vulnerable lodash package with a medium severity vulnerability."
           },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ""
-                },
-                "region": {
-                  "startLine": 1
-                }
-              }
-            }
-          ]
+          "locations": []
         },
         {
           "ruleId": "SNYK-JS-LODASH-1040724",
@@ -216,18 +205,7 @@
           "message": {
             "text": "This file introduces a vulnerable lodash package with a high severity vulnerability."
           },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ""
-                },
-                "region": {
-                  "startLine": 1
-                }
-              }
-            }
-          ]
+          "locations": []
         },
         {
           "ruleId": "SNYK-JS-LODASH-450202",
@@ -235,18 +213,7 @@
           "message": {
             "text": "This file introduces a vulnerable lodash package with a high severity vulnerability."
           },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ""
-                },
-                "region": {
-                  "startLine": 1
-                }
-              }
-            }
-          ]
+          "locations": []
         },
         {
           "ruleId": "SNYK-JS-LODASH-567746",
@@ -254,18 +221,7 @@
           "message": {
             "text": "This file introduces a vulnerable lodash package with a medium severity vulnerability."
           },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ""
-                },
-                "region": {
-                  "startLine": 1
-                }
-              }
-            }
-          ]
+          "locations": []
         },
         {
           "ruleId": "SNYK-JS-LODASH-590103",
@@ -273,18 +229,7 @@
           "message": {
             "text": "This file introduces a vulnerable lodash package with a high severity vulnerability."
           },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ""
-                },
-                "region": {
-                  "startLine": 1
-                }
-              }
-            }
-          ]
+          "locations": []
         },
         {
           "ruleId": "SNYK-JS-LODASH-608086",
@@ -292,18 +237,7 @@
           "message": {
             "text": "This file introduces a vulnerable lodash package with a high severity vulnerability."
           },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ""
-                },
-                "region": {
-                  "startLine": 1
-                }
-              }
-            }
-          ]
+          "locations": []
         },
         {
           "ruleId": "SNYK-JS-LODASH-73638",
@@ -311,18 +245,7 @@
           "message": {
             "text": "This file introduces a vulnerable lodash package with a high severity vulnerability."
           },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ""
-                },
-                "region": {
-                  "startLine": 1
-                }
-              }
-            }
-          ]
+          "locations": []
         },
         {
           "ruleId": "SNYK-JS-LODASH-73639",
@@ -330,18 +253,7 @@
           "message": {
             "text": "This file introduces a vulnerable lodash package with a medium severity vulnerability."
           },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ""
-                },
-                "region": {
-                  "startLine": 1
-                }
-              }
-            }
-          ]
+          "locations": []
         },
         {
           "ruleId": "npm:lodash:20180130",
@@ -349,18 +261,7 @@
           "message": {
             "text": "This file introduces a vulnerable lodash package with a medium severity vulnerability."
           },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ""
-                },
-                "region": {
-                  "startLine": 1
-                }
-              }
-            }
-          ]
+          "locations": []
         }
       ]
     }
