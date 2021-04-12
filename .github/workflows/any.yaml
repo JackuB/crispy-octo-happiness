@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - uses: snyk/actions/setup@master
+      # - uses: snyk/actions/setup@master
       # - name: Snyk monitor
       #   continue-on-error: true
       #   run: snyk test lodash@4.15.0 --sarif-file-output=snyk.sarif
